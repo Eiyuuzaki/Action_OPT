@@ -1,5 +1,5 @@
-nfc=y
-light=y
+nfc=n
+light=n
 phh=y
-fix=flyme
-fixbug=y
+fix=miui
+fixbug=n
